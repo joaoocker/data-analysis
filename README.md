@@ -1,3 +1,3 @@
 # Data-analysis
 
-Repo with data analysis files
+Data analysis repo with distinct objectives.
